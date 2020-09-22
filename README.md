@@ -20,4 +20,4 @@
 
 
 
-![NFUST](nkust.png "nkust")
+![nkust](nkust.png "nkust")
