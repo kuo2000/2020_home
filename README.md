@@ -18,6 +18,4 @@
 
 ###### c107118107 郭弘逸
 
-
-
-![nkust](nkust.png "nkust")
+! [nkust](nkust.png "nkust")
